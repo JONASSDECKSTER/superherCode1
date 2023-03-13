@@ -1,6 +1,6 @@
 {
     "ads": {
-		"showAds": true,
+		"showAds": false,
 		"bannerAd": "admob",
 		"interstitialAd": "admob",
 		"nativeAd": "max",
@@ -25,7 +25,7 @@
     "settings": {
         "showLog": true,
         "target_game_package": "com.studio27.MelonPlayground",
-        "onesignal_app_id": "34a9f669-0633-41eb-8927-1b802a8dd0a2",
+        "onesignal_app_id": "76175412-b98a-448b-bb51-c03ce21c4d22",
 		"allow_download_on_error": false,
         "review": {
 			"show": true,
